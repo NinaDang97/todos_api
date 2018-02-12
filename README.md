@@ -5,7 +5,9 @@ Code structure is nice, clean and modular.
 
 ### Setting up:
 * Mongo database
-`npm install --save`
+``` 
+npm install --save 
+```
 * express
 * mongoose
 * body-parser
