@@ -1,7 +1,7 @@
 # todos_api
 ### Description:
-A list-to-do single page app using AJAX jQuery to send requests from frontend to self-made backend API implemented with Express and Mongo to retrieve all todos, create a todo, update and so on.
-Code structure is nice, clean and modular.
+Clean, fast, easy to use is what you think of when mention single-page app. AJAX processing makes it even faster to get up-to-date to-do-list with full control, which is built on top mixed cocktail of Express&Mongo. 
+Please have a taste!
 
 ### Setting up:
 * Mongo database
