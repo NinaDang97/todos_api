@@ -5,6 +5,7 @@ The focus is a synchrony between sending request to AJAX as retrieving, creating
 Code structure is nice, clean and modular.<br />
 
 ### Setting up:
+1. Backend part:
 * Mongo database
 ``` 
 npm install --save 
@@ -12,5 +13,10 @@ npm install --save
 * express
 * mongoose
 * body-parser
+
+2. Frontend part: 
+* HTML
+* CSS
+* jQuery 
 
 ##### Inspired by Advanced Web Developer Bootcamp - Steel Colt
