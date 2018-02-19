@@ -19,9 +19,11 @@ npm install --save
 * CSS
 * jQuery 
 
-### Focus: 
-To delete/update an item:
-- Retrieve the `_id` of object first by using method .data('id', `todo._id`) 
-- Toggle the status `completed` by using method .data('completed', `todo.completed`)
+### Focus on app view using jQuery:
+1. To delete/update an item: 
+- Retrieve the `_id` of object first by using method .data('id', `todo._id`) => delete/update 
+- Toggle the status `completed` by using method .data('completed', `todo.completed`) => update
+2. $.ajax (with method: 'GET', 'POST', 'PUT', 'DELETE')
+
 
 ##### Inspired by Advanced Web Developer Bootcamp - Steel Colt
