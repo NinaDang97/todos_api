@@ -20,8 +20,8 @@ npm install --save
 * jQuery 
 
 ### Focus: 
-1. To delete/update an item:
-- Retrieve the _id of object first by using method .data('id', value) 
-- Change 
+To delete/update an item:
+- Retrieve the `_id` of object first by using method .data('id', `todo._id`) 
+- Toggle the status `completed` by using method .data('completed', `todo.completed`)
 
 ##### Inspired by Advanced Web Developer Bootcamp - Steel Colt
