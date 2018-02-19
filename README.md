@@ -19,4 +19,9 @@ npm install --save
 * CSS
 * jQuery 
 
+### Focus: 
+1. To delete/update an item:
+- Retrieve the _id of object first by using method .data('id', value) 
+- Change 
+
 ##### Inspired by Advanced Web Developer Bootcamp - Steel Colt
