@@ -28,10 +28,10 @@ npm install --save
 * DELETE: '/api/todos/:todoId'
 
 2. View:
-* GET: '/api/todos' (RETRIEVE THEN ADD ALL <li> TO <ul>)
-* POST: '/api/todos' (CREATE NEW TODO <li> -> INSERT)
-* PUT: '/api/todos/' + todo.data('id') (UPDATE TODO <li>)
-* DELETE: '/api/todos/' + todo.data('id') (REMOVE TODO <li> FROM <ul>)
+* GET: '/api/todos' (RETRIEVE THEN ADD ALL li TO ul)
+* POST: '/api/todos' (CREATE NEW TODO li -> INSERT)
+* PUT: '/api/todos/' + todo.data('id') (UPDATE TODO li)
+* DELETE: '/api/todos/' + todo.data('id') (REMOVE TODO li FROM ul)
 
 ### Focus on app view using jQuery:
 1. To delete/update an item: 
