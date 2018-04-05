@@ -23,7 +23,7 @@ npm install --save
 1. Server-side: 
 * GET: '/api/todos'
 * POST: '/api/todos'
-* SHOW: '/api/todos/:todoId'
+* SHOW-GET (specific ID): '/api/todos/:todoId'
 * PUT: '/api/todos/:todoId'
 * DELETE: '/api/todos/:todoId'
 
