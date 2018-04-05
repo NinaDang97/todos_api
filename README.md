@@ -19,7 +19,7 @@ npm install --save
 * CSS
 * jQuery 
 
-### HTTP Request:
+### HTTP Request with API Endpoints:
 1. Server-side: 
 * GET: '/api/todos'
 * POST: '/api/todos'
